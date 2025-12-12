@@ -1,0 +1,14 @@
+c:\.Net\Course 1\ToDoListManager\bin\Debug\net9.0\ToDoListManager.exe
+c:\.Net\Course 1\ToDoListManager\bin\Debug\net9.0\ToDoListManager.deps.json
+c:\.Net\Course 1\ToDoListManager\bin\Debug\net9.0\ToDoListManager.runtimeconfig.json
+c:\.Net\Course 1\ToDoListManager\bin\Debug\net9.0\ToDoListManager.dll
+c:\.Net\Course 1\ToDoListManager\bin\Debug\net9.0\ToDoListManager.pdb
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.GeneratedMSBuildEditorConfig.editorconfig
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.AssemblyInfoInputs.cache
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.AssemblyInfo.cs
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.csproj.CoreCompileInputs.cache
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.dll
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\refint\ToDoListManager.dll
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.pdb
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ToDoListManager.genruntimeconfig.cache
+c:\.Net\Course 1\ToDoListManager\obj\Debug\net9.0\ref\ToDoListManager.dll
